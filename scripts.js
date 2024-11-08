@@ -140,3 +140,17 @@
 //   console.log(number);
 //   number--;
 // }
+// hm 20
+// const products = [
+//   { name: "Coffee", quantity: 10 },
+//   { name: "Tea", quantity: 5 },
+//   { name: "Sugar", quantity: 3 },
+//   { name: "Milk", quantity: 2 },
+//   { name: "Bread", quantity: 8 },
+// ];
+
+// let index = 0;
+// while (index < products.length) {
+//   console.log(products[index].name);
+//   index++;
+// }
